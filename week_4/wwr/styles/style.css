@@ -1,4 +1,8 @@
 
+.home-title {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+}          
 #background {
     height: 725px;
     background-color: bisque;
