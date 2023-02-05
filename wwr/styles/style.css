@@ -68,6 +68,7 @@ main section img {
     border: 10px solid black;
 }
 .msg {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
     background-color: #6f7364;
     line-height: 1.5em;
     padding: 35px;
